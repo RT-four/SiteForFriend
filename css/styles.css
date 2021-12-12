@@ -1,0 +1,30 @@
+body {
+  background-color: #f6f2e7;
+  font-family: Snell Roundhand, cursive;
+}
+
+/* main */
+.main-image {
+  height: 30rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 2rem;
+}
+
+.who-am-i {
+  color: black;
+}
+/* main */
+
+/* content */
+.content-text{
+  font-size: 20px;
+}
+
+.p-content{
+  padding-top: 5rem;
+  margin-right: 10px;
+  height: 30rem;
+}
+/* content */
